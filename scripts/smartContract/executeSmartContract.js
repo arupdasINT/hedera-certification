@@ -32,11 +32,7 @@ async function main() {
     const contractExecTxFunction1 = new ContractExecuteTransaction()
       .setContractId(smartContractId)
       .setGas(100000)
-      .setFunction(
-        'function1',
-        new ContractFunctionParameters().addUint16(4),
-        new ContractFunctionParameters().addUint16(3),
-      );
+      .setFunction('function1', new ContractFunctionParameters().addUint16(4).addUint16(3));
 
     // Submit the transaction to a Hedera network and store the response
     const submitExecFunction1 = await contractExecTxFunction1.execute(client);
