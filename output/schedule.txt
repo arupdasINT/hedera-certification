@@ -1,0 +1,16 @@
+Schedule Transaction Output
+--------------------------------------
+The schedule ID is 0.0.10569538
+Base64 of schedule Id MC4wLjEwNTY5NTM4
+The scheduled transaction ID is 0.0.10568981@1684231078.945058285?scheduled
+
+Submit Signature Transaction Output
+---------------------------------------
+Before Transaction
+Payer Account Balance 10065116853 tinybar
+Receiver Account Balance 10955354378 tinybar
+
+The transaction consensus status is SUCCESS
+After Transaction
+Payer Account Balance 9063943868 tinybar
+Receiver Account Balance 11955354378 tinybar

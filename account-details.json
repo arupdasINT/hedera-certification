@@ -1,0 +1,27 @@
+[
+  {
+    "accountId": "0.0.10569618",
+    "accountPrivateKey": "302e020100300506032b6570042204204a890bb6a54e04171584d238c31f084ad5d5c0b28397d9585442c22b57457ccd",
+    "initialBalance": 1000000000
+  },
+  {
+    "accountId": "0.0.10569619",
+    "accountPrivateKey": "302e020100300506032b6570042204200ccfa0ab71cb57b5b33fb9a41860ea264047c336f0a57c49b1756804c985dd39",
+    "initialBalance": 1000000000
+  },
+  {
+    "accountId": "0.0.10569620",
+    "accountPrivateKey": "302e020100300506032b6570042204200041325bf01a1240ca09f9d6e030d0c93a82241cd6dd9e1d4aa83337e587b2b8",
+    "initialBalance": 1000000000
+  },
+  {
+    "accountId": "0.0.10569622",
+    "accountPrivateKey": "302e020100300506032b657004220420271ff1e7e94a51888cf7d8790ee38a4c82f685b5a533fb48f7c8856783613f8c",
+    "initialBalance": 1000000000
+  },
+  {
+    "accountId": "0.0.10569623",
+    "accountPrivateKey": "302e020100300506032b657004220420e6193bb33d26e11f8382f45f0172c0f80235109ba28e49345bba86b051d8b2f8",
+    "initialBalance": 1000000000
+  }
+]

@@ -1,0 +1,2 @@
+The smart contract byte code file ID is 0.0.10570980
+The smart contract ID is 0.0.10570981
